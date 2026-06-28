@@ -13,7 +13,6 @@ Admin dashboard project from The Odin Project.
 - HTML5
 - CSS3 (Grid and Flexbox)
 
-=====================================================================================================================================================================
 # ES
 - Este proyecto es el módulo final del curso de HTML y CSS Intermedio de The Odin Project. El objetivo principal fue diseñar una interfaz de panel de administración (Admin Dashboard) desde cero, poniendo en práctica técnicas avanzadas de maquetación y diseño responsivo.
 
