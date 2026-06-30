@@ -251,9 +251,8 @@ body{
 }
 
 .project-card p{
-    margin: 0;
+    margin-bottom: 5.9rem;
     color: #6b7280;
-    line-height: 1.36;
 }
 
 .icons{
