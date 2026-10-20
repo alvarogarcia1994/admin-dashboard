@@ -7,16 +7,13 @@
 }
 
 html, body{
-    width: 100%;
     max-width: 100vw;
     font-family: Roboto, "sans-serif";
-    overflow-x: hidden;
 }   
 
 .container{
     display: grid;
     grid-template-columns: max-content 1fr;
-    width: 100%; 
 }
 
 /* Sidebar styles */
@@ -87,10 +84,6 @@ html, body{
 }
 
 /* Header styles */
-.right{
-    width: 100%;
-}
-
 .header{
     background-color: white;
     height: auto;
