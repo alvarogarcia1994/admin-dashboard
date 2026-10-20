@@ -6,12 +6,14 @@
     box-sizing: border-box;
 }
 
-html, body{
+body{
+    min-height: 100vh;
     max-width: 100vw;
     font-family: Roboto, "sans-serif";
 }   
 
 .container{
+    min-height: 100vh;
     display: grid;
     grid-template-columns: max-content 1fr;
 }
